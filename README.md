@@ -38,11 +38,6 @@
 | --- | --- |
 | [Nav2 Controller Server执行流程](https://github.com/CCZH-Vessel-Algor-Team/ROS_develop_wiki/wiki/Nav2-Controller-Server) | FollowPath 主循环与 computeAndPublishVelocity 子流程的时序速览。 |
 | [Nav2 Controller体系与路径处理](https://github.com/CCZH-Vessel-Algor-Team/ROS_develop_wiki/wiki/Nav2-Controller-Path-Handling) | 插件接口、机器人状态输入、路径裁剪、坐标变换与碰撞检测。 |
-
-#### 速度指令链
-
-| 文档 | 内容 |
-| --- | --- |
 | [Nav2速度平滑与碰撞监测机制](https://github.com/CCZH-Vessel-Algor-Team/ROS_develop_wiki/wiki/Nav2-Velocity-Smoother-Collision-Monitor) | velocity_smoother 与 collision_monitor 的工作原理、参数和配置方法。 |
 
 #### Behavior 与导航任务
@@ -58,8 +53,8 @@
 | 日期 | 维护者 | 文件 | 更新 |
 | --- | --- | --- | --- |
 | 2026-10-21 | vectorwang | Nav2-Velocity-Smoother-Collision-Monitor.md | 新增速度平滑与碰撞监测机制。 |
-| 2026-10-21 | vectorwang | Home.md | 新增速度指令链分类与文档入口。 |
-| 2026-10-21 | vectorwang | _Sidebar.md | 新增速度指令链导航。 |
+| 2026-10-21 | vectorwang | Home.md | 在 Controller 分类补充速度平滑与碰撞监测入口。 |
+| 2026-10-21 | vectorwang | _Sidebar.md | 在 Controller 分类补充速度平滑与碰撞监测导航。 |
 | 2026-10-21 | vectorwang | README.md | 补充文档入口与更新记录。 |
 | 2026-09-22 | vectorwang | Home.md | 整理分类目录。 |
 | 2026-09-22 | vectorwang | _Sidebar.md | 新增侧边栏导航。 |
